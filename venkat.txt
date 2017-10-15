@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 clone 1
@@ -8,3 +9,6 @@ clone 3
 
 
 
+=======
+clone 2
+>>>>>>> bugfix
